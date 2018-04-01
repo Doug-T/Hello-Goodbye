@@ -1,2 +1,2 @@
 # Hello-Goodbye
-my test repository
+I'm a coder now, and a mf-ing Data Scientist, back off bitches.
